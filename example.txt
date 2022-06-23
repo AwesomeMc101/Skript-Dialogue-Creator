@@ -1,0 +1,4 @@
+mom -> &7Hey son!
+player -> &8Hey Mom!
+sound -> entity.egg.throw
+player -> &8Did somebody just throw an egg?
